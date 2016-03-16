@@ -1,0 +1,12 @@
+Link to the Map Position
+
+Map Area: London, Ontario, Canada
+Link: https://www.openstreetmap.org/node/485248691
+Data source: https://mapzen.com/data/metro-extracts/
+Downloaded on December 12, 2015
+
+
+The map area is the city I am living in plus surrounding towns like Woodstock. This is a mid-sized city in Southwestern Ontario and is home to the university I chose for graduate studies, University of Western Ontario.
+
+I chose this area because I am interested in developing this project further to provide a web app to locate amenities like hospitals or cafes while travelling, and would like to test in a region I’m familiar with and can test against my knowledge.
+

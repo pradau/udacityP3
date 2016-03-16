@@ -1,0 +1,18 @@
+References
+
+OpenStreetMap
+General info
+https://www.openstreetmap.org
+Explanations about specific parts of the structure on the wik., eg. amenity
+http://wiki.openstreetmap.org/wiki/Key:amenity
+
+StackOverflow
+Many questions were answered there. One example:
+How to parse JSON files:
+http://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python
+
+Mongodb
+Many questions about this database and queries. e.g. How to import data into a collection by mongoimport:
+https://docs.mongodb.org/v3.0/reference/program/mongoimport/
+
+Many other websites were used for lesser questions.
